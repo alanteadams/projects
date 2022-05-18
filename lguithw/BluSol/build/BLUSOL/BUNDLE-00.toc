@@ -1,3 +1,0 @@
-([('blusol',
-   '/Users/alanteadams/Projects/lguithw/BluSol/dist/blusol',
-   'EXECUTABLE')],)
