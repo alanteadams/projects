@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Product>
+  <Name>Sambouie</Name>
+  <Description>SAP ABAP Learning</Description>
+  <Price>99</Price>
+  <Course>
+    <Title>Introduction to XPATH</Title>
+    <Price>$45</Price>
+  </Course>
+</Product>

@@ -1,0 +1,3 @@
+([('touchtracer',
+   '/Users/alanteadams/Projects/lguithw/BluSol/dist/touchtracer',
+   'EXECUTABLE')],)

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<ProductListing>
+    <Product>
+      <Name>Word</Name>
+      <Description>Microsoft Word</Description>
+      <Price>$99></Price>
+    </Product>
+
+</ProductListing>
